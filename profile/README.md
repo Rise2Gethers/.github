@@ -45,6 +45,13 @@ To bridge the gap between learning and professional engineering. We don't just w
       </a><br />
       Frontend & Mobile Specialist
     </td>
+     <td align="center">
+      <a href="https://github.com/Guylherme97">
+        <img src="https://github.com/Guylherme97.png" width="100px;" alt=""/><br />
+        <sub><b>Guylherme</b></sub>
+      </a><br />
+      Python Specialist
+    </td>
   </tr>
 </table>
 
